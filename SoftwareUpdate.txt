@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Fix RTDETR generate anchor grid out of boundary (#7247)
