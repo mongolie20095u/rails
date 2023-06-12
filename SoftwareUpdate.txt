@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Python refactorings and simplifications (#7549)
