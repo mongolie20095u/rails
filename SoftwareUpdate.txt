@@ -1,1 +1,1 @@
-add logs
+Updated SQL Query Plot Code (#8120)
