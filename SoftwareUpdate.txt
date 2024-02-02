@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Fix Yolo 8.0.206 scale bug (#7821)
